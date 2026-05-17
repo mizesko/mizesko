@@ -12,10 +12,9 @@
     Atualmente em transição e aprendizado contínuo, trilhando o caminho do <b>Desenvolvimento Python</b> e da <b>Segurança Ofensiva</b>.
   </em>
 </p>
-
-``text
 ┌──(mizesko㉿mizesko)-[~]
-└─$ echo " hello world :) "
+
+└─$ echo  hello world :)  
 
 </div>
 
