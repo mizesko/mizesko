@@ -60,7 +60,7 @@ Acredito em unir segurança e desenvolvimento ágil. Não busco apenas quebrar s
   <a href="https://discordapp.com/users/mizeskov" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="[https://mizesko.vercel.app](https://portfolio-mizesko.vercel.app/)" target="_blank">
+  <a href="https://portfolio-mizesko.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio Pessoal" />
   </a>
   <a href="mailto:mizeskowork16@gmail.com" target="_blank">
