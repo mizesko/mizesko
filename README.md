@@ -14,7 +14,6 @@
 </p>
 
 ┌──(mizesko㉿mizesko)-[~]
-
 └─$ echo " hello world :) "
 </div>
 
