@@ -13,7 +13,7 @@
   </em>
 </p>
 
-┌──(mizesko㉿mizesko)-[~]
+ ┌──(mizesko㉿mizesko)-[~]
 
 └─$ echo " hello world :) "
 </div>
