@@ -44,7 +44,7 @@ Acredito em unir segurança e desenvolvimento ágil. Não busco apenas quebrar s
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,docker,git,sqlite,supabase&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,windows,git,sqlite,htmx,,supabase&theme=dark" alt="Skills" />
 
 </div>
 
