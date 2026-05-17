@@ -8,10 +8,14 @@
 
 <p align="center">
   <em>
-   Olá, Mizesko aqui!!!  Técnico em Informática formado pela ETEC e apaixonado por tecnologia.<br>
+    Técnico em Informática formado pela ETEC e apaixonado por tecnologia.<br>
     Atualmente em transição e aprendizado contínuo, trilhando o caminho do <b>Desenvolvimento Python</b> e da <b>Segurança Ofensiva</b>.
   </em>
 </p>
+
+```text
+┌──(mizesko㉿mizesko)-[~]
+└─$ echo " hello world :) "
 
 </div>
 
