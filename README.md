@@ -57,7 +57,7 @@ Acredito em unir segurança e desenvolvimento ágil. Não busco apenas quebrar s
   <a href="https://linkedin.com/in/mizesko" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discordapp.com/users/mizeskov" target="_blank">
+  <a href="https://discordapp.com/users/mizesko" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://portfolio-mizesko.vercel.app/" target="_blank">
