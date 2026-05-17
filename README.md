@@ -48,18 +48,7 @@ Acredito em unir segurança e desenvolvimento ágil. Não busco apenas quebrar s
 
 </div>
 
----
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mizesko&show_icons=true&theme=tokyonight&title_color=00b8ff&icon_color=00b8ff&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Mizesko" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizesko&layout=compact&theme=tokyonight&title_color=00b8ff&hide_border=true&langs_count=5" alt="Linguagens" />
-
-</div>
-
----
 
 ### 🌐 Conecte-se comigo
 
