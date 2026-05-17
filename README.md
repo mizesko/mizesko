@@ -12,10 +12,10 @@
     Atualmente em transição e aprendizado contínuo, trilhando o caminho do <b>Desenvolvimento Python</b> e da <b>Segurança Ofensiva</b>.
   </em>
 </p>
+
+</div>
 ┌──(mizesko㉿mizesko)-[~]
 └─$ echo  hello world :)  
-</div>
-
 ---
 
 ### 🛡️ Segurança Cibernética & Estudos
