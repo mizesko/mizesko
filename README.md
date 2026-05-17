@@ -8,7 +8,7 @@
 
 <p align="center">
   <em>
-    Técnico em Informática formado pela ETEC e apaixonado por tecnologia.<br>
+   Olá, Mizesko aqui!!!Técnico em Informática formado pela ETEC e apaixonado por tecnologia.<br>
     Atualmente em transição e aprendizado contínuo, trilhando o caminho do <b>Desenvolvimento Python</b> e da <b>Segurança Ofensiva</b>.
   </em>
 </p>
