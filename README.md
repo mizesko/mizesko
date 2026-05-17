@@ -83,3 +83,15 @@ Acredito em unir segurança e desenvolvimento ágil. Não busco apenas quebrar s
   <img src="https://komarev.com/ghpvc/?username=mizesko&style=flat-square&color=00b8ff&label=Profile+Views" alt="Profile Views" />
 
 </div>
+
+
+---
+
+<!-- Растап -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture
+
+---
