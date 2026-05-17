@@ -85,6 +85,13 @@ Acredito em unir segurança e desenvolvimento ágil. Não busco apenas quebrar s
 </div>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mizesko&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mizesko&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mizesko&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
 ---
 
 <!-- Растап -->
