@@ -13,12 +13,9 @@
   </em>
 </p>
 
-```text
-┌──(mizesko㉿mizesko)-[~]
-└─$ echo " hello world :) "
-
 </div>
 
+---
 
 ### 🛡️ Segurança Cibernética & Estudos
 
