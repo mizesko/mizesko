@@ -5,6 +5,8 @@
 </a>
 
 <br><br>
+<img src="mizesko.gif" alt="Mizesko" width="250" />
+<br><br>
 
 <p align="center">
   <em>
