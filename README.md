@@ -82,7 +82,7 @@ Acredito em unir segurança e desenvolvimento ágil. Não busco apenas quebrar s
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mizesko&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mizesko&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mizesko&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
